@@ -1,0 +1,17 @@
+data;
+param n := 3; 
+param m := 1; 
+param M := 1048576; 
+param alpha := 1.34814049586777; 
+param T := 737; 
+param epsilon := 737; 
+param beta := 34; 
+param txsize := 1936; 
+param iosize := 478; 
+param: 		size	value	:=
+	1	148	453508
+	2	148	110100
+	3	148	850133;
+param: 		Size	Value	:=
+	1	34	1411131;
+end;

@@ -1,0 +1,976 @@
+ zs = 34
+ zv = 435447
+number of UTXOs = 1
+ transaction size y = 1336
+value of input : 12704661
+value of output : 12266303
+./dataset1/5ad448a959678302d59e6f75.txt 
+
+ zs = 34
+ zv = 1367
+number of UTXOs = 2
+ transaction size y = 1386
+value of input : 63350
+value of output : 61480
+./dataset1/5ad44bfdce94cf05c955f862.txt 
+
+ zs = 34
+ zv = 39454264
+number of UTXOs = 1
+ transaction size y = 1378
+value of input : 50744309
+value of output : 11289418
+./dataset1/5ad44e0ece94cf05c955f864.txt 
+
+ zs = 34
+ zv = 1365
+number of UTXOs = 2
+ transaction size y = 1382
+value of input : 185127
+value of output : 183257
+./dataset1/5ad44e1bce94cf05c955f865.txt 
+
+ zs = 34
+ zv = 1034326
+number of UTXOs = 3
+ transaction size y = 1632
+value of input : 18053681
+value of output : 17000000
+./dataset1/5ad4503ece94cf05c955f868.txt 
+
+ zs = 34
+ zv = 17476785
+number of UTXOs = 1
+ transaction size y = 1476
+value of input : 74159618
+value of output : 56680000
+./dataset1/5ad4517cce94cf05c955f86a.txt 
+
+ zs = 34
+ zv = 15018
+number of UTXOs = 3
+ transaction size y = 1636
+value of input : 794908
+value of output : 779247
+./dataset1/5ad4519cce94cf05c955f86b.txt 
+
+ zs = 34
+ zv = 1364
+number of UTXOs = 2
+ transaction size y = 1378
+value of input : 811000
+value of output : 809130
+./dataset1/5ad45307ce94cf05c955f86c.txt 
+
+ zs = 34
+ zv = 38498
+number of UTXOs = 3
+ transaction size y = 2114
+value of input : 965716
+value of output : 913516
+./dataset1/5ad45353ce94cf05c955f86d.txt 
+
+ zs = 34
+ zv = 546
+number of UTXOs = 2
+ transaction size y = 1518
+value of input : 26731430
+value of output : 26730684
+./dataset1/5ad4537ece94cf05c955f86e.txt 
+
+ zs = 0
+ zv = 2305
+number of UTXOs = 3
+ transaction size y = 1944
+value of input : 2125000
+value of output : 2120000
+./dataset1/5ad45aac4c372215dd13d61c.txt 
+
+ zs = 34
+ zv = 3739331
+number of UTXOs = 3
+ transaction size y = 1670
+value of input : 15259543
+value of output : 11519526
+./dataset1/5ad45bc64c372215dd13d61d.txt 
+
+ zs = 34
+ zv = 8023919
+number of UTXOs = 1
+ transaction size y = 3560
+value of input : 8623973
+value of output : 600000
+./dataset1/5ad45f554c372215dd13d620.txt 
+
+ zs = 34
+ zv = 1812
+number of UTXOs = 3
+ transaction size y = 2934
+value of input : 39280
+value of output : 36905
+./dataset1/5ad460064c372215dd13d621.txt 
+
+ zs = 34
+ zv = 1370
+number of UTXOs = 2
+ transaction size y = 1394
+value of input : 6447730
+value of output : 6445860
+./dataset1/5ad4601c4c372215dd13d622.txt 
+
+ zs = 34
+ zv = 1811237
+number of UTXOs = 4
+ transaction size y = 2612
+value of input : 15364216
+value of output : 13552000
+./dataset1/5ad460274c372215dd13d623.txt 
+
+ zs = 34
+ zv = 3811
+number of UTXOs = 2
+ transaction size y = 1518
+value of input : 21300000
+value of output : 21294792
+./dataset1/5ad462d64c372215dd13d625.txt 
+
+ zs = 0
+ zv = 544
+number of UTXOs = 2
+ transaction size y = 1484
+value of input : 422849
+value of output : 421846
+./dataset1/5ad464274c372215dd13d626.txt 
+
+ zs = 34
+ zv = 154909
+number of UTXOs = 4
+ transaction size y = 2254
+value of input : 30294642
+value of output : 30132934
+./dataset1/5ad466074c372215dd13d627.txt 
+
+ zs = 34
+ zv = 7926
+number of UTXOs = 2
+ transaction size y = 1530
+value of input : 716080
+value of output : 705281
+./dataset1/5ad466964c372215dd13d628.txt 
+
+ zs = 34
+ zv = 50002134
+number of UTXOs = 3
+ transaction size y = 1674
+value of input : 247000000
+value of output : 196996634
+./dataset1/5ad466b84c372215dd13d629.txt 
+
+ zs = 34
+ zv = 5281
+number of UTXOs = 4
+ transaction size y = 2570
+value of input : 748146
+value of output : 741007
+./dataset1/5ad467694c372215dd13d62a.txt 
+
+ zs = 34
+ zv = 61979
+number of UTXOs = 2
+ transaction size y = 1378
+value of input : 8625857
+value of output : 8540857
+./dataset1/5ad468234c372215dd13d62c.txt 
+
+ zs = 34
+ zv = 163735
+number of UTXOs = 4
+ transaction size y = 2270
+value of input : 4761281
+value of output : 4597373
+./dataset1/5ad469f14c372215dd13d62e.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 1196
+value of input : 0
+value of output : 210004252
+./dataset1/5ad46c154c372215dd13d630.txt 
+
+ zs = 34
+ zv = 1000620
+number of UTXOs = 1
+ transaction size y = 1370
+value of input : 7000000
+value of output : 5999254
+./dataset1/5ad46c3a4c372215dd13d631.txt 
+
+ zs = 34
+ zv = 1921
+number of UTXOs = 3
+ transaction size y = 1974
+value of input : 29966
+value of output : 27356
+./dataset1/5ad46ca84c372215dd13d632.txt 
+
+ zs = 34
+ zv = 4142
+number of UTXOs = 7
+ transaction size y = 4338
+value of input : 4258346
+value of output : 4252775
+./dataset1/5ad46ec14c372215dd13d633.txt 
+
+ zs = 34
+ zv = 3491
+number of UTXOs = 3
+ transaction size y = 1782
+value of input : 2594148
+value of output : 2589460
+./dataset1/5ad46ef24c372215dd13d634.txt 
+
+ zs = 34
+ zv = 2232
+number of UTXOs = 3
+ transaction size y = 1644
+value of input : 410488
+value of output : 408000
+./dataset1/5ad471284c372215dd13d638.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 1162
+value of input : 0
+value of output : 2000
+./dataset1/5ad471b84c372215dd13d639.txt 
+
+ zs = 34
+ zv = 175003
+number of UTXOs = 3
+ transaction size y = 1538
+value of input : 25947638
+value of output : 25731101
+./dataset1/5ad472484c372215dd13d63a.txt 
+
+ zs = 34
+ zv = 944
+number of UTXOs = 2
+ transaction size y = 1634
+value of input : 5345957
+value of output : 5344735
+./dataset1/5ad472ba4c372215dd13d63b.txt 
+
+ zs = 34
+ zv = 2740
+number of UTXOs = 2
+ transaction size y = 1522
+value of input : 490000000
+value of output : 489996260
+./dataset1/5ad472c54c372215dd13d63c.txt 
+
+ zs = 34
+ zv = 11564733
+number of UTXOs = 2
+ transaction size y = 2036
+value of input : 13175175
+value of output : 1605960
+./dataset1/5ad473814c372215dd13d63d.txt 
+
+ zs = 34
+ zv = 106167
+number of UTXOs = 3
+ transaction size y = 1674
+value of input : 859041
+value of output : 752190
+./dataset1/5ad4739d4c372215dd13d63e.txt 
+
+ zs = 34
+ zv = 8424
+number of UTXOs = 2
+ transaction size y = 1386
+value of input : 114128
+value of output : 102600
+./dataset1/5ad4742c4c372215dd13d63f.txt 
+
+ zs = 34
+ zv = 7562
+number of UTXOs = 4
+ transaction size y = 2690
+value of input : 370539
+value of output : 360302
+./dataset1/5ad474d64c372215dd13d640.txt 
+
+ zs = 0
+ zv = 1739
+number of UTXOs = 3
+ transaction size y = 1598
+value of input : 62334960
+value of output : 62330000
+./dataset1/5ad475124c372215dd13d641.txt 
+
+ zs = 34
+ zv = 1370
+number of UTXOs = 2
+ transaction size y = 1522
+value of input : 200000000
+value of output : 199998130
+./dataset1/5ad476594c372215dd13d643.txt 
+
+ zs = 34
+ zv = 991
+number of UTXOs = 4
+ transaction size y = 2570
+value of input : 93142
+value of output : 91802
+./dataset1/5ad476844c372215dd13d644.txt 
+
+ zs = 34
+ zv = 118085
+number of UTXOs = 1
+ transaction size y = 1340
+value of input : 599466
+value of output : 480725
+./dataset1/5ad476fb4c372215dd13d645.txt 
+
+ zs = 34
+ zv = 6951
+number of UTXOs = 4
+ transaction size y = 2714
+value of input : 1427896
+value of output : 1418516
+./dataset1/5ad477294c372215dd13d646.txt 
+
+ zs = 34
+ zv = 45488830
+number of UTXOs = 1
+ transaction size y = 1600
+value of input : 58294458
+value of output : 12804464
+./dataset1/5ad4791c4c372215dd13d648.txt 
+
+ zs = 34
+ zv = 9869
+number of UTXOs = 3
+ transaction size y = 2072
+value of input : 2466749
+value of output : 2455856
+./dataset1/5ad47be34c372215dd13d64a.txt 
+
+ zs = 34
+ zv = 86038750
+number of UTXOs = 6
+ transaction size y = 5168
+value of input : 507409567
+value of output : 421360000
+./dataset1/5ad47d664c372215dd13d64c.txt 
+
+ zs = 34
+ zv = 519617
+number of UTXOs = 3
+ transaction size y = 1670
+value of input : 1853638
+value of output : 1332786
+./dataset1/5ad47dc44c372215dd13d64d.txt 
+
+ zs = 34
+ zv = 7170
+number of UTXOs = 6
+ transaction size y = 3874
+value of input : 4668960
+value of output : 4659300
+./dataset1/5ad47eb64c372215dd13d64e.txt 
+
+ zs = 34
+ zv = 3010
+number of UTXOs = 2
+ transaction size y = 1390
+value of input : 7000000
+value of output : 6995886
+./dataset1/5ad47f9d4c372215dd13d64f.txt 
+
+ zs = 34
+ zv = 366408
+number of UTXOs = 4
+ transaction size y = 3146
+value of input : 2116712
+value of output : 1732890
+./dataset1/5ad484584c372215dd13d651.txt 
+
+ zs = 34
+ zv = 1922
+number of UTXOs = 3
+ transaction size y = 2106
+value of input : 1124455
+value of output : 1121845
+./dataset1/5ad484ba4c372215dd13d652.txt 
+
+ zs = 34
+ zv = 668881
+number of UTXOs = 3
+ transaction size y = 2080
+value of input : 6016630
+value of output : 5343820
+./dataset1/5ad486864c372215dd13d654.txt 
+
+ zs = 34
+ zv = 16805
+number of UTXOs = 6
+ transaction size y = 3758
+value of input : 1880140
+value of output : 1857531
+./dataset1/5ad486964c372215dd13d655.txt 
+
+ zs = 34
+ zv = 3836
+number of UTXOs = 2
+ transaction size y = 1522
+value of input : 14933222
+value of output : 14927986
+./dataset1/5ad4874d4c372215dd13d656.txt 
+
+ zs = 34
+ zv = 30871
+number of UTXOs = 3
+ transaction size y = 1670
+value of input : 25609239
+value of output : 25577682
+./dataset1/5ad487e34c372215dd13d657.txt 
+
+ zs = 34
+ zv = 183290
+number of UTXOs = 3
+ transaction size y = 1670
+value of input : 209937887
+value of output : 209753911
+./dataset1/5ad4884f4c372215dd13d658.txt 
+
+ zs = 34
+ zv = 364788
+number of UTXOs = 7
+ transaction size y = 4030
+value of input : 5516942
+value of output : 5146313
+./dataset1/5ad489674c372215dd13d659.txt 
+
+ zs = 34
+ zv = 41742
+number of UTXOs = 6
+ transaction size y = 3750
+value of input : 537690870
+value of output : 537634670
+./dataset1/5ad489ba4c372215dd13d65b.txt 
+
+ zs = 34
+ zv = 3850
+number of UTXOs = 3
+ transaction size y = 2114
+value of input : 8713036
+value of output : 8707816
+./dataset1/5ad48ad14c372215dd13d65c.txt 
+
+ zs = 34
+ zv = 10969
+number of UTXOs = 2
+ transaction size y = 1526
+value of input : 1166970
+value of output : 1152010
+./dataset1/5ad48afa4c372215dd13d65d.txt 
+
+ zs = 34
+ zv = 33666513
+number of UTXOs = 2
+ transaction size y = 2276
+value of input : 68835400
+value of output : 35146919
+./dataset1/5ad48b864c372215dd13d65e.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 1430
+value of input : 0
+value of output : 398769282
+./dataset1/5ad48dac4c372215dd13d65f.txt 
+
+ zs = 34
+ zv = 1371
+number of UTXOs = 2
+ transaction size y = 1526
+value of input : 2477980
+value of output : 2476110
+./dataset1/5ad48de24c372215dd13d660.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 1818
+value of input : 0
+value of output : 309714442
+./dataset1/5ad48e444c372215dd13d661.txt 
+
+ zs = 34
+ zv = 1787048
+number of UTXOs = 1
+ transaction size y = 1814
+value of input : 5016800
+value of output : 3228500
+./dataset1/5ad48f254c372215dd13d663.txt 
+
+ zs = 34
+ zv = 36599
+number of UTXOs = 3
+ transaction size y = 1674
+value of input : 4020000
+value of output : 3973820
+./dataset1/5ad490a54c372215dd13d665.txt 
+
+ zs = 34
+ zv = 2883269
+number of UTXOs = 1
+ transaction size y = 1370
+value of input : 9092457
+value of output : 6202921
+./dataset1/5ad491554c372215dd13d666.txt 
+
+ zs = 34
+ zv = 1365
+number of UTXOs = 2
+ transaction size y = 1382
+value of input : 1760327
+value of output : 1758457
+./dataset1/5ad492cd4c372215dd13d668.txt 
+
+ zs = 34
+ zv = 183866
+number of UTXOs = 7
+ transaction size y = 3996
+value of input : 3995342
+value of output : 3800000
+./dataset1/5ad4933b4c372215dd13d669.txt 
+
+ zs = 34
+ zv = 124231
+number of UTXOs = 2
+ transaction size y = 1386
+value of input : 95485944
+value of output : 95315944
+./dataset1/5ad494f14c372215dd13d66a.txt 
+
+ zs = 34
+ zv = 3339
+number of UTXOs = 5
+ transaction size y = 3146
+value of input : 5516000
+value of output : 5511490
+./dataset1/5ad495554c372215dd13d66b.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 2198
+value of input : 0
+value of output : 313790166
+./dataset1/5ad4957e4c372215dd13d66c.txt 
+
+ zs = 34
+ zv = 29928
+number of UTXOs = 4
+ transaction size y = 3082
+value of input : 2133272
+value of output : 2095072
+./dataset1/5ad498914c372215dd13d66e.txt 
+
+ zs = 34
+ zv = 164694
+number of UTXOs = 1
+ transaction size y = 1780
+value of input : 618963
+value of output : 453687
+./dataset1/5ad4990e4c372215dd13d66f.txt 
+
+ zs = 0
+ zv = 824
+number of UTXOs = 6
+ transaction size y = 5480
+value of input : 27494
+value of output : 24304
+./dataset1/5ad499f44c372215dd13d670.txt 
+
+ zs = 34
+ zv = 4927
+number of UTXOs = 2
+ transaction size y = 1518
+value of input : 17187514
+value of output : 17180782
+./dataset1/5ad49caa4c372215dd13d672.txt 
+
+ zs = 34
+ zv = 99479421
+number of UTXOs = 1
+ transaction size y = 1484
+value of input : 105448323
+value of output : 5966068
+./dataset1/5ad49e5c4c372215dd13d676.txt 
+
+ zs = 34
+ zv = 27331
+number of UTXOs = 2
+ transaction size y = 1386
+value of input : 6074707
+value of output : 6037307
+./dataset1/5ad49f644c372215dd13d678.txt 
+
+ zs = 34
+ zv = 19261
+number of UTXOs = 2
+ transaction size y = 1390
+value of input : 16822400
+value of output : 16796072
+./dataset1/5ad49faf4c372215dd13d679.txt 
+
+ zs = 34
+ zv = 11510
+number of UTXOs = 3
+ transaction size y = 1966
+value of input : 2020080
+value of output : 2004420
+./dataset1/5ad4a25d4c372215dd13d685.txt 
+
+ zs = 34
+ zv = 19957125
+number of UTXOs = 3
+ transaction size y = 1678
+value of input : 71541204
+value of output : 51579984
+./dataset1/5ad4a2ec4c372215dd13d686.txt 
+
+ zs = 34
+ zv = 1920
+number of UTXOs = 3
+ transaction size y = 1970
+value of input : 1413741
+value of output : 1411131
+./dataset1/5ad4a3084c372215dd13d687.txt 
+
+ zs = 34
+ zv = 4146
+number of UTXOs = 7
+ transaction size y = 4482
+value of input : 1046533
+value of output : 1040962
+./dataset1/5ad4a4934c372215dd13d688.txt 
+
+ zs = 34
+ zv = 1165190
+number of UTXOs = 11
+ transaction size y = 5912
+value of input : 341165619
+value of output : 340000000
+./dataset1/5ad4a74f4c372215dd13d68a.txt 
+
+ zs = 34
+ zv = 10969
+number of UTXOs = 2
+ transaction size y = 1526
+value of input : 4586719
+value of output : 4571759
+./dataset1/5ad4a9e64c372215dd13d68b.txt 
+
+ zs = 0
+ zv = 1244
+number of UTXOs = 1
+ transaction size y = 2138
+value of input : 54950
+value of output : 50000
+./dataset1/5ad4aacf4c372215dd13d68d.txt 
+
+ zs = 34
+ zv = 40248
+number of UTXOs = 3
+ transaction size y = 1982
+value of input : 670600
+value of output : 616002
+./dataset1/5ad4ab444c372215dd13d68e.txt 
+
+ zs = 34
+ zv = 15634
+number of UTXOs = 3
+ transaction size y = 1674
+value of input : 14907666
+value of output : 14886385
+./dataset1/5ad4abb84c372215dd13d68f.txt 
+
+ zs = 0
+ zv = 3468
+number of UTXOs = 7
+ transaction size y = 3120
+value of input : 36364521
+value of output : 36351379
+./dataset1/5ad4abfe4c372215dd13d690.txt 
+
+ zs = 34
+ zv = 34764
+number of UTXOs = 3
+ transaction size y = 1640
+value of input : 424218
+value of output : 376620
+./dataset1/5ad4ac0f4c372215dd13d691.txt 
+
+ zs = 34
+ zv = 5776
+number of UTXOs = 2
+ transaction size y = 1526
+value of input : 6874940
+value of output : 6867063
+./dataset1/5ad4ac8e4c372215dd13d692.txt 
+
+ zs = 34
+ zv = 14264
+number of UTXOs = 3
+ transaction size y = 2122
+value of input : 19434030
+value of output : 19414716
+./dataset1/5ad4acaf4c372215dd13d693.txt 
+
+ zs = 34
+ zv = 4936
+number of UTXOs = 4
+ transaction size y = 2554
+value of input : 53590200
+value of output : 53583512
+./dataset1/5ad4ad324c372215dd13d694.txt 
+
+ zs = 0
+ zv = 42
+number of UTXOs = 3
+ transaction size y = 1606
+value of input : 457938
+value of output : 450000
+./dataset1/5ad4ad714c372215dd13d696.txt 
+
+ zs = 34
+ zv = 2845
+number of UTXOs = 2
+ transaction size y = 1530
+value of input : 1553010
+value of output : 1549134
+./dataset1/5ad4ada24c372215dd13d697.txt 
+
+ zs = 34
+ zv = 14804115
+number of UTXOs = 1
+ transaction size y = 2736
+value of input : 90305281
+value of output : 75500000
+./dataset1/5ad4ae9d4c372215dd13d698.txt 
+
+ zs = 34
+ zv = 47495
+number of UTXOs = 3
+ transaction size y = 1892
+value of input : 588376
+value of output : 540000
+./dataset1/5ad4b06e4c372215dd13d69b.txt 
+
+ zs = 34
+ zv = 8076
+number of UTXOs = 1
+ transaction size y = 1378
+value of input : 7139181
+value of output : 7129225
+./dataset1/5ad4b1224c372215dd13d69c.txt 
+
+ zs = 34
+ zv = 11544
+number of UTXOs = 3
+ transaction size y = 1982
+value of input : 2303729
+value of output : 2288069
+./dataset1/5ad4b2664c372215dd13d69e.txt 
+
+ zs = 0
+ zv = 3775
+number of UTXOs = 1
+ transaction size y = 1208
+value of input : 982320
+value of output : 977190
+./dataset1/5ad4b33c4c372215dd13d69f.txt 
+
+ zs = 34
+ zv = 51511465
+number of UTXOs = 1
+ transaction size y = 1374
+value of input : 67495545
+value of output : 15980865
+./dataset1/5ad4b3884c372215dd13d6a0.txt 
+
+ zs = 0
+ zv = 13147
+number of UTXOs = 4
+ transaction size y = 5312
+value of input : 1405805
+value of output : 1376073
+./dataset1/5ad4b4b54c372215dd13d6a1.txt 
+
+ zs = 34
+ zv = 1367
+number of UTXOs = 2
+ transaction size y = 1386
+value of input : 7512426
+value of output : 7510556
+./dataset1/5ad4b5034c372215dd13d6a2.txt 
+
+ zs = 34
+ zv = 460542
+number of UTXOs = 3
+ transaction size y = 1636
+value of input : 13006789
+value of output : 12542000
+./dataset1/5ad4b5fb4c372215dd13d6a3.txt 
+
+ zs = 34
+ zv = 10959
+number of UTXOs = 2
+ transaction size y = 1522
+value of input : 3993334
+value of output : 3978374
+./dataset1/5ad4b8154c372215dd13d6a7.txt 
+
+ zs = 0
+ zv = 582
+number of UTXOs = 12
+ transaction size y = 6606
+value of input : 87586848
+value of output : 87584000
+./dataset1/5ad4b8d74c372215dd13d6a8.txt 
+
+ zs = 0
+ zv = 1044
+number of UTXOs = 1
+ transaction size y = 1566
+value of input : 239295
+value of output : 237823
+./dataset1/5ad4b9324c372215dd13d6a9.txt 
+
+ zs = 34
+ zv = 21812
+number of UTXOs = 4
+ transaction size y = 2702
+value of input : 5090272
+value of output : 5060792
+./dataset1/5ad4ba104c372215dd13d6ab.txt 
+
+ zs = 34
+ zv = 31230
+number of UTXOs = 1
+ transaction size y = 1336
+value of input : 1235253
+value of output : 1202684
+./dataset1/5ad4baab4c372215dd13d6ac.txt 
+
+ zs = 34
+ zv = 3948
+number of UTXOs = 2
+ transaction size y = 1514
+value of input : 8121100
+value of output : 8115700
+./dataset1/5ad4bb5b4c372215dd13d6ad.txt 
+
+ zs = 0
+ zv = 0
+number of UTXOs = 0
+ transaction size y = 1196
+value of input : 0
+value of output : 9420125
+./dataset1/5ad4bcf94c372215dd13d6b0.txt 
+
+ zs = 34
+ zv = 1642
+number of UTXOs = 2
+ transaction size y = 1390
+value of input : 3715665
+value of output : 3713421
+./dataset1/5ad4bd964c372215dd13d6b2.txt 
+
+ zs = 34
+ zv = 12894
+number of UTXOs = 4
+ transaction size y = 2574
+value of input : 14067400
+value of output : 14049980
+./dataset1/5ad4be974c372215dd13d6b4.txt 
+
+ zs = 34
+ zv = 29614
+number of UTXOs = 5
+ transaction size y = 3146
+value of input : 1460000
+value of output : 1420000
+./dataset1/5ad4bf004c372215dd13d6b5.txt 
+
+ zs = 34
+ zv = 3331037
+number of UTXOs = 6
+ transaction size y = 3002
+value of input : 108176031
+value of output : 104820003
+./dataset1/5ad4bf7f4c372215dd13d6b6.txt 
+
+ zs = 0
+ zv = 5337
+number of UTXOs = 2
+ transaction size y = 1928
+value of input : 545737
+value of output : 536753
+./dataset1/5ad4bfd94c372215dd13d6b7.txt 
+
+ zs = 34
+ zv = 3679854
+number of UTXOs = 2
+ transaction size y = 2336
+value of input : 6280744
+value of output : 2596710
+./dataset1/5ad4c0d94c372215dd13d6b8.txt 
+
+ zs = 34
+ zv = 1078504
+number of UTXOs = 4
+ transaction size y = 2228
+value of input : 162581677
+value of output : 161500000
+./dataset1/5ad4c1be4c372215dd13d6b9.txt 
+
+ zs = 0
+ zv = 166
+number of UTXOs = 7
+ transaction size y = 3526
+value of input : 251775
+value of output : 250000
+./dataset1/5ad4c4144c372215dd13d6bb.txt 
+
+ zs = 34
+ zv = 73235
+number of UTXOs = 2
+ transaction size y = 1394
+value of input : 5498000
+value of output : 5398000
+./dataset1/5ad4c5ad4c372215dd13d6bc.txt 
+
+ zs = 34
+ zv = 85484
+number of UTXOs = 1
+ transaction size y = 1340
+value of input : 200000000
+value of output : 199900000
+./dataset1/5ad4c6024c372215dd13d6bd.txt 
+
+ zs = 34
+ zv = 243442
+number of UTXOs = 4
+ transaction size y = 2228
+value of input : 28986088
+value of output : 28740148
+./dataset1/5ad4cb594c372215dd13d6be.txt 
+

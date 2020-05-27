@@ -1,0 +1,664 @@
+ zs = 34
+ zv = 198389
+ minimize y = 1336
+./dataset1/5ad448a959678302d59e6f75.txt 
+
+ zs = 34
+ zv = 1367
+ minimize y = 1386
+./dataset1/5ad44bfdce94cf05c955f862.txt 
+
+ zs = 34
+ zv = 39454264
+ minimize y = 1378
+./dataset1/5ad44e0ece94cf05c955f864.txt 
+
+ zs = 34
+ zv = 1365
+ minimize y = 1382
+./dataset1/5ad44e1bce94cf05c955f865.txt 
+
+ zs = 34
+ zv = 1037719
+ minimize y = 1484
+./dataset1/5ad4503ece94cf05c955f868.txt 
+
+ zs = 34
+ zv = 17476785
+ minimize y = 1476
+./dataset1/5ad4517cce94cf05c955f86a.txt 
+
+ zs = 34
+ zv = 13394
+ minimize y = 1488
+./dataset1/5ad4519cce94cf05c955f86b.txt 
+
+ zs = 34
+ zv = 1364
+ minimize y = 1378
+./dataset1/5ad45307ce94cf05c955f86c.txt 
+
+ zs = 34
+ zv = 38498
+ minimize y = 2114
+./dataset1/5ad45353ce94cf05c955f86d.txt 
+
+ zs = 34
+ zv = 546
+ minimize y = 1518
+./dataset1/5ad4537ece94cf05c955f86e.txt 
+
+ zs = 0
+ zv = 322
+ minimize y = 1796
+./dataset1/5ad45aac4c372215dd13d61c.txt 
+
+ zs = 34
+ zv = 1370
+ minimize y = 1522
+./dataset1/5ad45bc64c372215dd13d61d.txt 
+
+ zs = 34
+ zv = 1078085
+ minimize y = 3560
+./dataset1/5ad45f554c372215dd13d620.txt 
+
+ zs = 34
+ zv = 1410
+ minimize y = 2786
+./dataset1/5ad460064c372215dd13d621.txt 
+
+ zs = 34
+ zv = 1370
+ minimize y = 1394
+./dataset1/5ad4601c4c372215dd13d622.txt 
+
+ zs = 34
+ zv = 1184864
+ minimize y = 2464
+./dataset1/5ad460274c372215dd13d623.txt 
+
+ zs = 34
+ zv = 3811
+ minimize y = 1518
+./dataset1/5ad462d64c372215dd13d625.txt 
+
+ zs = 0
+ zv = 544
+ minimize y = 1484
+./dataset1/5ad464274c372215dd13d626.txt 
+
+ zs = 34
+ zv = 14951
+ minimize y = 2106
+./dataset1/5ad466074c372215dd13d627.txt 
+
+ zs = 34
+ zv = 7926
+ minimize y = 1530
+./dataset1/5ad466964c372215dd13d628.txt 
+
+ zs = 34
+ zv = 2468
+ minimize y = 1526
+./dataset1/5ad466b84c372215dd13d629.txt 
+
+ zs = 34
+ zv = 5281
+ minimize y = 2570
+./dataset1/5ad467694c372215dd13d62a.txt 
+
+ zs = 34
+ zv = 61979
+ minimize y = 1378
+./dataset1/5ad468234c372215dd13d62c.txt 
+
+ zs = 34
+ zv = 386
+ minimize y = 2122
+./dataset1/5ad469f14c372215dd13d62e.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 1196
+./dataset1/5ad46c154c372215dd13d630.txt 
+
+ zs = 34
+ zv = 1000620
+ minimize y = 1370
+./dataset1/5ad46c3a4c372215dd13d631.txt 
+
+ zs = 34
+ zv = 1921
+ minimize y = 1974
+./dataset1/5ad46ca84c372215dd13d632.txt 
+
+ zs = 34
+ zv = 4142
+ minimize y = 4338
+./dataset1/5ad46ec14c372215dd13d633.txt 
+
+ zs = 34
+ zv = 2889
+ minimize y = 1634
+./dataset1/5ad46ef24c372215dd13d634.txt 
+
+ zs = 34
+ zv = 1436
+ minimize y = 1496
+./dataset1/5ad471284c372215dd13d638.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 1162
+./dataset1/5ad471b84c372215dd13d639.txt 
+
+ zs = 34
+ zv = 62706
+ minimize y = 1390
+./dataset1/5ad472484c372215dd13d63a.txt 
+
+ zs = 34
+ zv = 944
+ minimize y = 1634
+./dataset1/5ad472ba4c372215dd13d63b.txt 
+
+ zs = 34
+ zv = 2740
+ minimize y = 1522
+./dataset1/5ad472c54c372215dd13d63c.txt 
+
+ zs = 34
+ zv = 5954657
+ minimize y = 1888
+./dataset1/5ad473814c372215dd13d63d.txt 
+
+ zs = 34
+ zv = 1371
+ minimize y = 1526
+./dataset1/5ad4739d4c372215dd13d63e.txt 
+
+ zs = 34
+ zv = 8424
+ minimize y = 1386
+./dataset1/5ad4742c4c372215dd13d63f.txt 
+
+ zs = 34
+ zv = 7562
+ minimize y = 2690
+./dataset1/5ad474d64c372215dd13d640.txt 
+
+ zs = 34
+ zv = 9707
+ minimize y = 1484
+./dataset1/5ad475124c372215dd13d641.txt 
+
+ zs = 34
+ zv = 1370
+ minimize y = 1522
+./dataset1/5ad476594c372215dd13d643.txt 
+
+ zs = 34
+ zv = 991
+ minimize y = 2570
+./dataset1/5ad476844c372215dd13d644.txt 
+
+ zs = 34
+ zv = 118085
+ minimize y = 1340
+./dataset1/5ad476fb4c372215dd13d645.txt 
+
+ zs = 34
+ zv = 6951
+ minimize y = 2714
+./dataset1/5ad477294c372215dd13d646.txt 
+
+ zs = 34
+ zv = 58293356
+ minimize y = 1600
+./dataset1/5ad4791c4c372215dd13d648.txt 
+
+ zs = 34
+ zv = 8351
+ minimize y = 1924
+./dataset1/5ad47be34c372215dd13d64a.txt 
+
+ zs = 34
+ zv = 392817
+ minimize y = 4872
+./dataset1/5ad47d664c372215dd13d64c.txt 
+
+ zs = 34
+ zv = 2466
+ minimize y = 1522
+./dataset1/5ad47dc44c372215dd13d64d.txt 
+
+ zs = 34
+ zv = 7170
+ minimize y = 3874
+./dataset1/5ad47eb64c372215dd13d64e.txt 
+
+ zs = 34
+ zv = 3010
+ minimize y = 1390
+./dataset1/5ad47f9d4c372215dd13d64f.txt 
+
+ zs = 34
+ zv = 178740
+ minimize y = 2998
+./dataset1/5ad484584c372215dd13d651.txt 
+
+ zs = 34
+ zv = 1922
+ minimize y = 2106
+./dataset1/5ad484ba4c372215dd13d652.txt 
+
+ zs = 34
+ zv = 62354
+ minimize y = 1932
+./dataset1/5ad486864c372215dd13d654.txt 
+
+ zs = 34
+ zv = 16805
+ minimize y = 3758
+./dataset1/5ad486964c372215dd13d655.txt 
+
+ zs = 34
+ zv = 3836
+ minimize y = 1522
+./dataset1/5ad4874d4c372215dd13d656.txt 
+
+ zs = 34
+ zv = 1370
+ minimize y = 1522
+./dataset1/5ad487e34c372215dd13d657.txt 
+
+ zs = 34
+ zv = 1370
+ minimize y = 1522
+./dataset1/5ad4884f4c372215dd13d658.txt 
+
+ zs = 34
+ zv = 14670
+ minimize y = 3882
+./dataset1/5ad489674c372215dd13d659.txt 
+
+ zs = 34
+ zv = 41742
+ minimize y = 3750
+./dataset1/5ad489ba4c372215dd13d65b.txt 
+
+ zs = 34
+ zv = 3850
+ minimize y = 2114
+./dataset1/5ad48ad14c372215dd13d65c.txt 
+
+ zs = 34
+ zv = 10969
+ minimize y = 1526
+./dataset1/5ad48afa4c372215dd13d65d.txt 
+
+ zs = 34
+ zv = 33672015
+ minimize y = 2128
+./dataset1/5ad48b864c372215dd13d65e.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 1430
+./dataset1/5ad48dac4c372215dd13d65f.txt 
+
+ zs = 34
+ zv = 1371
+ minimize y = 1526
+./dataset1/5ad48de24c372215dd13d660.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 1818
+./dataset1/5ad48e444c372215dd13d661.txt 
+
+ zs = 34
+ zv = 1787048
+ minimize y = 1814
+./dataset1/5ad48f254c372215dd13d663.txt 
+
+ zs = 34
+ zv = 19196
+ minimize y = 1526
+./dataset1/5ad490a54c372215dd13d665.txt 
+
+ zs = 34
+ zv = 2883269
+ minimize y = 1370
+./dataset1/5ad491554c372215dd13d666.txt 
+
+ zs = 34
+ zv = 1365
+ minimize y = 1382
+./dataset1/5ad492cd4c372215dd13d668.txt 
+
+ zs = 34
+ zv = 103268
+ minimize y = 3700
+./dataset1/5ad4933b4c372215dd13d669.txt 
+
+ zs = 34
+ zv = 124231
+ minimize y = 1386
+./dataset1/5ad494f14c372215dd13d66a.txt 
+
+ zs = 34
+ zv = 3339
+ minimize y = 3146
+./dataset1/5ad495554c372215dd13d66b.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 2198
+./dataset1/5ad4957e4c372215dd13d66c.txt 
+
+ zs = 34
+ zv = 21783
+ minimize y = 2934
+./dataset1/5ad498914c372215dd13d66e.txt 
+
+ zs = 34
+ zv = 135920
+ minimize y = 1780
+./dataset1/5ad4990e4c372215dd13d66f.txt 
+
+ zs = 34
+ zv = 1582
+ minimize y = 5218
+./dataset1/5ad499f44c372215dd13d670.txt 
+
+ zs = 34
+ zv = 4927
+ minimize y = 1518
+./dataset1/5ad49caa4c372215dd13d672.txt 
+
+ zs = 34
+ zv = 31641669
+ minimize y = 1484
+./dataset1/5ad49e5c4c372215dd13d676.txt 
+
+ zs = 34
+ zv = 27331
+ minimize y = 1386
+./dataset1/5ad49f644c372215dd13d678.txt 
+
+ zs = 34
+ zv = 19261
+ minimize y = 1390
+./dataset1/5ad49faf4c372215dd13d679.txt 
+
+ zs = 34
+ zv = 11510
+ minimize y = 1966
+./dataset1/5ad4a25d4c372215dd13d685.txt 
+
+ zs = 34
+ zv = 15058235
+ minimize y = 1530
+./dataset1/5ad4a2ec4c372215dd13d686.txt 
+
+ zs = 34
+ zv = 1920
+ minimize y = 1970
+./dataset1/5ad4a3084c372215dd13d687.txt 
+
+ zs = 34
+ zv = 4146
+ minimize y = 4482
+./dataset1/5ad4a4934c372215dd13d688.txt 
+
+ zs = 34
+ zv = 404603
+ minimize y = 5468
+./dataset1/5ad4a74f4c372215dd13d68a.txt 
+
+ zs = 34
+ zv = 10969
+ minimize y = 1526
+./dataset1/5ad4a9e64c372215dd13d68b.txt 
+
+ zs = 0
+ zv = 1244
+ minimize y = 2138
+./dataset1/5ad4aacf4c372215dd13d68d.txt 
+
+ zs = 34
+ zv = 40248
+ minimize y = 1982
+./dataset1/5ad4ab444c372215dd13d68e.txt 
+
+ zs = 34
+ zv = 11314
+ minimize y = 1526
+./dataset1/5ad4abb84c372215dd13d68f.txt 
+
+ zs = 0
+ zv = 3706
+ minimize y = 2824
+./dataset1/5ad4abfe4c372215dd13d690.txt 
+
+ zs = 34
+ zv = 33375
+ minimize y = 1492
+./dataset1/5ad4ac0f4c372215dd13d691.txt 
+
+ zs = 34
+ zv = 5776
+ minimize y = 1526
+./dataset1/5ad4ac8e4c372215dd13d692.txt 
+
+ zs = 34
+ zv = 14264
+ minimize y = 2122
+./dataset1/5ad4acaf4c372215dd13d693.txt 
+
+ zs = 34
+ zv = 4936
+ minimize y = 2554
+./dataset1/5ad4ad324c372215dd13d694.txt 
+
+ zs = 34
+ zv = 202887
+ minimize y = 1492
+./dataset1/5ad4ad714c372215dd13d696.txt 
+
+ zs = 34
+ zv = 2845
+ minimize y = 1530
+./dataset1/5ad4ada24c372215dd13d697.txt 
+
+ zs = 34
+ zv = 31596514
+ minimize y = 2736
+./dataset1/5ad4ae9d4c372215dd13d698.txt 
+
+ zs = 34
+ zv = 25062
+ minimize y = 1744
+./dataset1/5ad4b06e4c372215dd13d69b.txt 
+
+ zs = 34
+ zv = 8076
+ minimize y = 1378
+./dataset1/5ad4b1224c372215dd13d69c.txt 
+
+ zs = 34
+ zv = 11544
+ minimize y = 1982
+./dataset1/5ad4b2664c372215dd13d69e.txt 
+
+ zs = 0
+ zv = 3775
+ minimize y = 1208
+./dataset1/5ad4b33c4c372215dd13d69f.txt 
+
+ zs = 34
+ zv = 44015920
+ minimize y = 1374
+./dataset1/5ad4b3884c372215dd13d6a0.txt 
+
+ zs = 0
+ zv = 3312
+ minimize y = 5164
+./dataset1/5ad4b4b54c372215dd13d6a1.txt 
+
+ zs = 34
+ zv = 1367
+ minimize y = 1386
+./dataset1/5ad4b5034c372215dd13d6a2.txt 
+
+ zs = 34
+ zv = 459286
+ minimize y = 1488
+./dataset1/5ad4b5fb4c372215dd13d6a3.txt 
+
+ zs = 34
+ zv = 10959
+ minimize y = 1522
+./dataset1/5ad4b8154c372215dd13d6a7.txt 
+
+ zs = 34
+ zv = 31947
+ minimize y = 6048
+./dataset1/5ad4b8d74c372215dd13d6a8.txt 
+
+ zs = 0
+ zv = 1044
+ minimize y = 1566
+./dataset1/5ad4b9324c372215dd13d6a9.txt 
+
+ zs = 34
+ zv = 21812
+ minimize y = 2702
+./dataset1/5ad4ba104c372215dd13d6ab.txt 
+
+ zs = 34
+ zv = 31230
+ minimize y = 1336
+./dataset1/5ad4baab4c372215dd13d6ac.txt 
+
+ zs = 34
+ zv = 3948
+ minimize y = 1514
+./dataset1/5ad4bb5b4c372215dd13d6ad.txt 
+
+ zs = 34
+ zv = 2370374
+ minimize y = 1526
+./dataset1/5ad4bcf94c372215dd13d6b0.txt 
+
+ zs = 34
+ zv = 1642
+ minimize y = 1390
+./dataset1/5ad4bd964c372215dd13d6b2.txt 
+
+ zs = 34
+ zv = 12894
+ minimize y = 2574
+./dataset1/5ad4be974c372215dd13d6b4.txt 
+
+ zs = 34
+ zv = 29614
+ minimize y = 3146
+./dataset1/5ad4bf004c372215dd13d6b5.txt 
+
+ zs = 34
+ zv = 49931
+ minimize y = 2706
+./dataset1/5ad4bf7f4c372215dd13d6b6.txt 
+
+ zs = 34
+ zv = 1466374
+ minimize y = 1814
+./dataset1/5ad4bfd94c372215dd13d6b7.txt 
+
+ zs = 34
+ zv = 3592045
+ minimize y = 2188
+./dataset1/5ad4c0d94c372215dd13d6b8.txt 
+
+ zs = 34
+ zv = 79215
+ minimize y = 2080
+./dataset1/5ad4c1be4c372215dd13d6b9.txt 
+
+ zs = 0
+ zv = 794
+ minimize y = 3230
+./dataset1/5ad4c4144c372215dd13d6bb.txt 
+
+ zs = 34
+ zv = 73235
+ minimize y = 1394
+./dataset1/5ad4c5ad4c372215dd13d6bc.txt 
+
+ zs = 34
+ zv = 85484
+ minimize y = 1340
+./dataset1/5ad4c6024c372215dd13d6bd.txt 
+
+ zs = 34
+ zv = 235002
+ minimize y = 2080
+./dataset1/5ad4cb594c372215dd13d6be.txt 
+
+ zs = 34
+ zv = 88370779
+ num selected: 1
+
+./largevin/5ad45471ce94cf05c955f86f.txt 
+
+ zs = 34
+ zv = 18456046
+ minimize y = 17590
+./largevin/5ad45a854c372215dd13d61b.txt 
+
+ zs = 34
+ zv = 513908685
+ minimize y = 9206
+./largevin/5ad4758c4c372215dd13d642.txt 
+
+ zs = 0
+ zv = 15437
+ minimize y = 17272
+./largevin/5ad49b514c372215dd13d671.txt 
+
+ zs = 34
+ zv = 957378837
+ minimize y = 9806
+./largevin/5ad49ea34c372215dd13d677.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 18308
+./largevin/5ad4ad534c372215dd13d695.txt 
+
+ zs = 34
+ zv = 15385507
+ minimize y = 18026
+./largevin/5ad4b9644c372215dd13d6aa.txt 
+
+ zs = 0
+ zv = 5753
+ minimize y = 16076
+./largevin/5ad4bc7b4c372215dd13d6ae.txt 
+
+ zs = 34
+ zv = 135445485
+ minimize y = 4198
+./largevin/5ad4bcc54c372215dd13d6af.txt 
+
+ zs = 0
+ zv = 0
+ minimize y = 18276
+ zv = ./largevin/5ad4cb834c372215dd13d6bf.txt 
+
+
+
+
